@@ -5,7 +5,8 @@ var recipeModel = require('../models/recipes')
 
 const bcrypt = require('bcrypt');
 var uid2 = require('uid2');
-
+ //juste pour tester git 
+ 
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
